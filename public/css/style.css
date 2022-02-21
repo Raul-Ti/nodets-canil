@@ -37,7 +37,10 @@ header input {
     font-size: 14px;
     width: 100%;
     max-width: 200px;
+    border-radius: 15px;
+    border-color: #102581;
 }
+
 nav {
     background: var(--main);
     color: var(--darkbg);
